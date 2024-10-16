@@ -6,7 +6,7 @@ ID : CT08DS8871
 
 Domain : PowerBI
 
-Duration : October 5th yo November 5th,2024
+Duration : October 5th  November 5th,2024
 
 Mentor : Neela Santhosh Kumar
 
