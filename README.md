@@ -1,14 +1,19 @@
 Name : Revanth KS 
+
 Company : CODTECH IT SOLUTIONS
+
 ID : CT08DS8871
+
 Domain : PowerBI
+
 Duration : October 5th yo November 5th,2024
 Mentor : Neela Santhosh Kumar
 
-Overview of the project:
-Project: Human Resources Analytics
 
-Objective
+Overview of the project
+Project : Human Resources Analytics
+
+Objective:
 the objective of this project is to develop a report to analyze HR data, including employee demographics,attrition rates, and performnace metrics.
 
 📊 **Overall Workforce:**
